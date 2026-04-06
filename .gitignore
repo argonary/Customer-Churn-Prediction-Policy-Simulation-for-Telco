@@ -1,0 +1,17 @@
+ # Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# MLflow
+mlruns/
+mlruns_telco/
+
+# Claude Code
+.claude/
+
+# Data (optional — remove this line if you want the CSV tracked)
+*.csv
+
+# Python
+__pycache__/
+*.pyc
